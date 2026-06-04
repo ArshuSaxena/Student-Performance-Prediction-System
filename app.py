@@ -43,4 +43,4 @@ if st.button("Predict Result"):
 
 # Display Dataset
 if st.checkbox("Show Dataset"):
-    st.dataframe(data) 
+    st.dataframe(data)
